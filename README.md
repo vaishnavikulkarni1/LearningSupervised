@@ -4,5 +4,7 @@ The title says it all. This is a machine learning based project. Our method uses
 14/02/2019
 
 created gitHub account
+
 learnt about gitHub
+
 created a blog 
