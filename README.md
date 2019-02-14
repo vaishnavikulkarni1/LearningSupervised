@@ -3,8 +3,17 @@ The title says it all. This is a machine learning based project. Our method uses
 
 14/02/2019
 
-created gitHub account
+Objectives of the project:
 
-learnt about gitHub
+Here we discuss the concept of a specialized representation learning
+model for cyberbullying detection.
 
-created a blog 
+METHODOLOGY USED:
+
+OSN System Construction Module
+
+Construction of Bullying Feature Set
+
+Cyberbullying Detection.
+
+Semantic-Enhanced Marginalized Denoising Auto-Encoder.
