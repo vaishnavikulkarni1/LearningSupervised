@@ -38,6 +38,8 @@ The ultimate goal of this type of research is to develop models that could impro
 
 To tackle this problem, we propose a machine learning method based on a linear SVM classifier. Exploiting a rich feature set. The contribution we make is twofold: first, we develop a complex classifier to detect signals of cyberbullying, which allows us to detect different types of cyberbullying that are related to different social roles involved in a cyberbullying event. Second, we demonstrate that the methodology is easily portable to other languages, provided there is annotated data available, by performing experiments on English dataset.
 
+
+
 The remainder of this paper is structured as follows:
 
 the next section presents a definition of cyberbullying and its participant roles and provides an overview of the state of the art in cyberbullying detection. 
