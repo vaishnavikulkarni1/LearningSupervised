@@ -42,7 +42,7 @@ To tackle this problem, we propose a machine learning method based on a linear S
 
 The remainder of this paper is structured as follows:
 
-the next section presents a definition of cyberbullying and its participant roles and provides an overview of the state of the art in cyberbullying detection. 
+The next section presents a definition of cyberbullying and its participant roles and provides an overview of the state of the art in cyberbullying detection. 
 
 The Data collection and annotation section describes the corpus construction and annotation. 
 
