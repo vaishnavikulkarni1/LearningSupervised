@@ -1,7 +1,8 @@
 # LearningSupervised
 The title says it all. This is a machine learning based project. Our method uses semantic-enhanced Marginalized Denoising Auto-encoder (smSDA)  to detect bullying words.
+Week 1:
 
-14/02/2019
+Day1- 14/02/2019
 
 Objectives of the project:
 
@@ -18,7 +19,7 @@ Cyberbullying Detection.
 
 Semantic-Enhanced Marginalized Denoising Auto-Encoder.
 
-15/2/2019
+Day2- 15/2/2019
 
 Literature Survey
 
@@ -49,4 +50,23 @@ The Data collection and annotation section describes the corpus construction and
 Next, we present the experimental setup and discuss our experimental results for English. 
 
 Finally, the Conclusion and future research section concludes this paper and provides some perspectives for further research.
+
+
+
+REFERENCE:
+
+1)Representation Learning: A Review and New Perspectives
+AUTHORS: Y. Bengio, A. Courville, and P. Vincent
+
+2) Users of the world, unite! The challenges and opportunities of Social Media
+AUTHORS: A. M. Kaplan and M. Haenlein
+
+3)Bullying in the digital age: a critical review and meta-analysis of
+cyberbullying research among youth
+AUTHORS: R. M. Kowalski, G. W. Giumetti, A. N. Schroeder, and M. R.
+Lattanner
+
+4)Modeling the Detection of Textual Cyberbullying
+AUTHORS: K. Dinakar, R. Reichart, and H. Lieberman
+
 
